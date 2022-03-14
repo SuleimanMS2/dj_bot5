@@ -1,4 +1,4 @@
 DEBUG = True
 ALLOWED_HOSTS = ['*']
-HOST = 'http://suleiman.uz'
+HOST = 'https://suleiman.uz'
 
